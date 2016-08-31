@@ -28,7 +28,7 @@ body {
 }
 
 #mc_embed_signup
-input.email{
+{
   clear:left;
   width: 360px;
   margin: 20px auto;
@@ -36,13 +36,14 @@ input.email{
   font-weight: 300;
 }
 
-#mce-EMAIL{
+#mce-EMAIL
+{
   background-color: transparent;
   border: 1px solid #EF6262;
   color: #ffffff;
 }
 
-#mc-embedded-subscribe .button{
+#mc-embedded-subscribe {
   background-color: #EF6262;
   width: 100%;
 }
