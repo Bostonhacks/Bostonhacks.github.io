@@ -27,7 +27,8 @@ body {
   height: 215px;
 }
 
-#mc_embed_signup{
+#mc_embed_signup
+input.email{
   clear:left;
   width: 360px;
   margin: 20px auto;
@@ -41,7 +42,7 @@ body {
   color: #ffffff;
 }
 
-#mc-embedded-subscribe{
+#mc-embedded-subscribe .button{
   background-color: #EF6262;
   width: 100%;
 }
